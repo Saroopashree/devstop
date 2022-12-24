@@ -1,0 +1,13 @@
+beautifulsoup4==4.11.1
+html2text==2020.1.16
+nltk==3.7
+numpy==1.23.2
+pandas==1.4.4
+praw==7.6.0
+psaw==0.1.0
+pydantic==1.10.2
+pymongo==4.2.0
+python-dotenv==0.20.0
+pytz==2022.2.1
+redis==4.3.4
+scikit-learn==1.1.3
